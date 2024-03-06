@@ -1,0 +1,22 @@
+{
+  "name": "colorscribe-theme",
+  "displayName": "ColorScribe Theme",
+  "description": "A vibrant and intuitive theme designed to enhance your coding experience in Visual Studio Code. Developed in collaboration with ChatGPT, ColorScribe features carefully curated color palettes and syntax highlighting for a refreshing visual aesthetic in your workspace.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "1.86.0"
+  },
+  "categories": [
+    "Themes",
+    "Colorful Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Color Scribe",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Color Scribe-color-theme.json"
+      }
+    ]
+  }
+}
