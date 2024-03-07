@@ -22,9 +22,12 @@ To start using ColorScribe Theme, follow these steps:
 - Carefully curated syntax highlighting for improved code readability.
 - Designed for a refreshing and inspiring coding experience.
 
+## Screenshots
+
+![ColorScribe Theme Screenshot](https://github.com/sharwalk/colorscribe-theme/blob/main/Screenshot.png)
+
 ## Feedback and Support
 
 If you have any feedback or need support, please don't hesitate to [reach out to us](https://github.com/sharwalk/vscode-colorscribe-theme/issues) through GitHub Issues.
-
 
 **Enjoy coding with ColorScribe Theme!**
