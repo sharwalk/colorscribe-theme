@@ -1,7 +1,7 @@
 {
   "name": "colorscribe-theme",
   "version": "0.1.0",
-  "publisher": "Sharwalk",
+  "publisher": "MaximKuzmin",
   "description": "A vibrant and intuitive theme designed to enhance your coding experience in Visual Studio Code.",
   "engines": {
     "vscode": "^1.61.0"
