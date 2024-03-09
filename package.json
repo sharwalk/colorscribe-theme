@@ -10,8 +10,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/sharwalk/colorscribe-theme.git",
-    "logo": "https://raw.githubusercontent.com/sharwalk/colorscribe-theme/main/scribe-logo.jpg"
-
+    "logo": "https://raw.githubusercontent.com/sharwalk/colorscribe-theme/main/scribe-logo.png"
   },
   "categories": [
     "Themes"
