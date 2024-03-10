@@ -2,15 +2,30 @@
   "name": "colorscribe-theme",
   "version": "0.1.0",
   "publisher": "MaximKuzmin",
+  "icon": "images/logo.png",
   "description": "A vibrant and intuitive theme designed to enhance your coding experience in Visual Studio Code.",
   "engines": {
     "vscode": "^1.61.0"
   },
+  "keywords": [
+    "color",
+    "theme",
+    "vscode",
+    "colorscribe"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sharwalk/colorscribe-theme.git",
-    "icon": "https://raw.githubusercontent.com/sharwalk/colorscribe-theme/main/scribe-logo.png"
+    "url": "https://github.com/sharwalk/colorscribe-theme.git"
+      },
+  "homepage": "https://github.com/sharwalk/colorscribe-theme",
+  "author": {
+    "name": "Maxim Kuzmin",
+    "email": "sharikwalks@gmail.com",
+    "url": "https://github.com/sharwalk/colorscribe-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/sharwalk/colorscribe-theme/issues"
   },
   "categories": [
     "Themes"
